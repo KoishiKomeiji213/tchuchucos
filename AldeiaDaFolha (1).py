@@ -11,7 +11,6 @@ aldeia.addshape('ramen.gif')
 aldeia.addshape('fundo.gif')
 aldeia.addshape('shuriken.gif')
 aldeia.addshape('kunai.gif')
-#jm teve aki
 #Configurações de objetos.
 estrada = turtle.Turtle()                                #Criação do objeto que terá o formato da estrada.
 estrada.penup()
